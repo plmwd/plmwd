@@ -30,7 +30,7 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plmwd&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmwd&layout=compact&hide=VHDL,SystemVerilog,Coq,V,Tcl,Assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmwd&layout=compact&hide=VHDL,SystemVerilog,Coq,V,Tcl,Assembly&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **plmwd/plmwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
