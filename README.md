@@ -14,6 +14,8 @@
   * And, a LoRa air pollution detector for senior design!
 - 🌱 I’m currently learning Rust and how Linux works
 
+### Note
+My GitHub account is currently messed up after doing a username change, so some of my repos are unaccessable.
 
 ## Much Skills <img width="90" height="auto" src="https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg">
 <div style="display: flex">
