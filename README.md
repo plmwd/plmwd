@@ -8,11 +8,8 @@
 
 ## I'm a student (finally) graduating Spring '22
 - 🔭 I’m currently working on (not dying) projects in every class! 
-  * Creating a basic shell in operating systems 
-  * Full-stack website
-  * TBD computer graphics project
-  * And, a LoRa air pollution detector for senior design!
-- 🌱 I’m currently learning Rust and how Linux works
+  * A LoRa air pollution detector with AWS backend and React frontend for senior design!
+- 🌱 I’m currently learning Rust and Linux 
 
 ### Note
 My GitHub account is currently messed up after doing a username change, so some of my repos are unaccessable.
