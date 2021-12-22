@@ -11,9 +11,6 @@
   * A LoRa air pollution detector with AWS backend and React frontend for senior design!
 - 🌱 I’m currently learning Rust and Linux 
 
-### Note
-My GitHub account is currently messed up after doing a username change, so some of my repos are unaccessable.
-
 ## Much Skills <img width="90" height="auto" src="https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg">
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
