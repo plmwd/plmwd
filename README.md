@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/plmwd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br><br>
 
+
 ## I'm a student (finally) graduating Spring '22
 - 🔭 I’m currently working on (not dying) projects in every class! 
   * A LoRa air pollution detector with AWS backend and React frontend for senior design!
@@ -25,9 +26,12 @@
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
+<br><br>
 
+## Muh Stats
 ![Metrics](/github-metrics.svg)
-## Stats
+
+<!-- ## Stats -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plmwd&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmwd&layout=compact&hide=VHDL,SystemVerilog,Coq,V,Tcl,Assembly&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
