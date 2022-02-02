@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="999" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1315" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2229,6 +2229,220 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 605 commits in
+                                        <span class="repo">UCF-Aether/zephyr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">lora_nvm</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ca8ed04</div>
+                                        <div class="message">Bluetooth: CSIS: Rename servers to client_insts in csis_client.c
+
+Rename the array to a more descriptive name and change the type
+to bt_csis, as well as renaming the individual variables
+when accessing the array.
+
+Signed-off-by: Emil Gydesen &lt;emil.gydesen@nordicsemi.no&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2b4896</div>
+                                        <div class="message">Bluetooth: CSIS: Move csis_instance to csis_internal.h
+
+Move the struct definition to the internal header file,
+and add it to the bt_csis struct.
+
+This also renames the csis_instance to
+bt_csis_client_svc_inst to use the bt_csis prefix.
+
+Signed-off-by: Emil Gydesen &lt;emil.gydesen@nordicsemi.no&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22a1075</div>
+                                        <div class="message">samples: net: sockets: can: Disable Ethernet
+
+Disable Ethernet on SocketCAN sample because some Ethernet
+drivers cannot operate on such small buffers.
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1343199</div>
+                                        <div class="message">boards: sam_e70_xplained: Add CAN support
+
+This commit adds CAN support on the sam_e70_xplained.
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64871ad</div>
+                                        <div class="message">boards: sam_e70_xplained: default GPIO to y
+
+Set CONFIG_GPIO=y is in the sam_e70_xplained_defconfig
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a989be</div>
+                                        <div class="message">dts: atmel: SAME70: Add can instances for SAME70
+
+This commit adds can0 and can1 on the Atmel SAME70.
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e5c8a3</div>
+                                        <div class="message">drivers: can: Add frontend for Atmel SAM M_CAN controller
+
+This commit adds a frontend for the generic Bosch m_can driver
+for Atmel SAM series.
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e903cd</div>
+                                        <div class="message">drivers: can: mcan: Add headers for types used in this file
+
+Some includes that resolve types used in this file were missing.
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5ad0b4</div>
+                                        <div class="message">drivers: can: mcan: fix array index in cache handling param
+
+filter_nr was renamed to filter_id. This change was not included
+in the cache handling PR.
+
+Signed-off-by: Alexander Wachter &lt;alexander@wachter.cloud&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cb754c</div>
+                                        <div class="message">boards: qemu_x86_tiny: pin logging subsys code and data
+
+This pins the logging subsys code and data so logging can be
+used with demand paging.
+
+Signed-off-by: Daniel Leung &lt;daniel.leung@intel.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c32256</div>
+                                        <div class="message">scripts: logging: include pinned rodata in database
+
+This adds "pinned.rodata" into the string database so
+this will work with pinned rodata section.
+
+Signed-off-by: Daniel Leung &lt;daniel.leung@intel.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b90019</div>
+                                        <div class="message">logging: dictionary: workaround non-existing strings
+
+When strings are not in the dictionary, the parser would crash.
+This works around the issue by indcating an unknown string
+as "string@&lt;addr&gt;".
+
+Signed-off-by: Daniel Leung &lt;daniel.leung@intel.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b89a0f5</div>
+                                        <div class="message">Fix: Add the doxygen group of heap listener
+
+Add the doxygen contents of heap listener which is missed.
+We already have some apis of heap listener, but cannot be display
+in our documents. So add the group to show in the doc.
+
+Signed-off-by: Jian Kang &lt;jianx.kang@intel.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6cc771</div>
+                                        <div class="message">boards: esp_wrover_kit: use default configs from soc
+
+Set esp_wrover_kit board to use default soc cmakelists
+and remove hardcoded bootloader as it is automatically
+selected by kconfig options.
+
+Signed-off-by: Sylvio Alves &lt;sylvio.alves@espressif.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b427fd</div>
+                                        <div class="message">soc: esp32: add flash dts values into cmake config
+
+This configures soc and flash size definition
+using DTSI information instead of hardcoded
+values.
+
+Signed-off-by: Sylvio Alves &lt;sylvio.alves@espressif.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c60664</div>
+                                        <div class="message">drivers: clock_control: stm32h7: systick activation
+
+Do not enable systick in the clock control initialization of
+a STM32H7.
+
+Signed-off-by: Benedikt Schmidt &lt;benedikt.schmidt@embedded-solutions.at&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce07d83</div>
+                                        <div class="message">drivers: i2c: sam0: Return the bus to idle when a transaction fails
+
+If a transaction fails, the bus was not being returned to idle. This
+increases power consumption, and can cause the following transaction to
+be misinterpreted.
+
+By issuing a STOP command on error, we can ensure that the bus returns
+to idle correctly.
+
+Signed-off-by: Attie Grande &lt;attie.grande@argentum-systems.co.uk&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aed55b6</div>
+                                        <div class="message">drivers: i2c: sam0: Ensure the bus returns to idle after a read
+
+When calling i2c_transfer(), the bus failes to enter the idle state when
+performing a read, or an unacknowledged write. This increases power
+consumption, and can cause the following transaction to be
+misinterpreted.
+
+This behaviour was observed on a SAML21 part. There appears to be a race
+condition between the peripheral setting CLKHOLD, and the command being
+correctly set up - so now we wait for the CLKHOLD field to be set before
+issuing the STOP command, and this resolves this issue.
+
+Signed-off-by: Attie Grande &lt;attie.grande@argentum-systems.co.uk&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40ad264</div>
+                                        <div class="message">drivers: uart: fix esp32 TX checks
+
+This fixes both TX ready and completed uart
+calls to meet valid condition.
+
+Closes #41526
+Closes #41624
+
+Signed-off-by: Sylvio Alves &lt;sylvio.alves@espressif.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a57a80</div>
+                                        <div class="message">tests: pm_multicore: Avoid possible race condition
+
+Use the given cpu argument in the policy callback to
+avoid possible race condition.
+
+Signed-off-by: Flavio Ceolin &lt;flavio.ceolin@intel.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">plmwd/nvim-config</span>
                                     </div>
@@ -2285,32 +2499,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UCF-Aether/Aether-App</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/api-logs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c1a19e9</div>
-                                        <div class="message">Updated gh actions to use PG env vars</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2022, 13:17:37 (timezone America/New_York) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 14:12:59 (timezone America/New_York) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
