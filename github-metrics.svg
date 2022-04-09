@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1158" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1059" class="">
     <defs>
         <style/>
     </defs>
@@ -2244,6 +2244,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">UCF-Aether/aether-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/map-visualization</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8308c17</div>
+                                        <div class="message">Fix map styling, added slider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9e2e09</div>
+                                        <div class="message">Fix for using postgres.public.sensor_chan instead of public.sensor_chan</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">UCF-Aether/aether-app</span>
                                     </div>
@@ -2435,66 +2459,12 @@ Date:   Wed Apr 6 09:23:16 2022 -0400
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">UCF-Aether/aether-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">yeet-graphql</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#810d10a</div>
-                                        <div class="message">db: test data gens devices with only 1 location</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76bf60b</div>
-                                        <div class="message">Added hook for uplinks
-
-- For setting 'last_uplink_at' device_meta column</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9e45d2</div>
-                                        <div class="message">db: formatting, removed table view col list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb87037</div>
-                                        <div class="message">Moved layer panel to supabase</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0b2482</div>
-                                        <div class="message">Moved device api to supabase</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad579b3</div>
-                                        <div class="message">Added useLayers hook, layer fixes
-
-- Fixed wrong key for layer-related hooks (not supplying deviceId)
-- Added ability to use unix time with LayerData
-- Map data is now fed with useLayer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6acaba</div>
-                                        <div class="message">Simplified layer data format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4998085</div>
-                                        <div class="message">Added activation method field</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2022, 12:04:46 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 13:05:53 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
