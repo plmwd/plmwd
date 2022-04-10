@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="972" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="989" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2240,6 +2240,50 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UCF-Aether/aether-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/map-visualization</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d5edac</div>
+                                        <div class="message">Additional map performance fixes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">UCF-Aether/aether-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/map-visualization</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#743f3c3</div>
+                                        <div class="message">Fix sidebar positioning</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3add4ad</div>
+                                        <div class="message">Map performance fixes, added map slider</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
@@ -2291,176 +2335,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UCF-Aether/aether-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/map-visualization</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e65209a</div>
-                                        <div class="message">Move API to Supabase
-
-commit a3b08533ea9aaacdbd0009e36c3e5e73c921d7fe
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:38:58 2022 -0400
-
-    Forgot to actually commit the hook
-
-commit 810d10a8022bdfc205c3b0d7d3b21adac5388a99
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:35:42 2022 -0400
-
-    db: test data gens devices with only 1 location
-
-commit 76bf60b8c1da1e4954ab3ec22cf42157527012fd
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:34:54 2022 -0400
-
-    Added hook for uplinks
-
-    - For setting 'last_uplink_at' device_meta column
-
-commit b9e45d2194942240eb564182b3b2d6d63b1e0ecf
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:34:11 2022 -0400
-
-    db: formatting, removed table view col list
-
-commit bb87037cbd17c69e295b821ad3550aa700d69495
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:33:06 2022 -0400
-
-    Moved layer panel to supabase
-
-commit c0b248208108c84b077665e4622b815d1dad59b6
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:32:51 2022 -0400
-
-    Moved device api to supabase
-
-commit ad579b32c389adc23ea893693263fb047ec906bc
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 23:30:59 2022 -0400
-
-    Added useLayers hook, layer fixes
-
-    - Fixed wrong key for layer-related hooks (not supplying deviceId)
-    - Added ability to use unix time with LayerData
-    - Map data is now fed with useLayer
-
-commit f6acabac0ad01b4678a60e5ed969f45fee6dca59
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 08:48:30 2022 -0400
-
-    Simplified layer data format
-
-commit 49980859d7ef45c9760e803ff97bb27fecae4d0a
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Fri Apr 8 08:48:13 2022 -0400
-
-    Added activation method field
-
-commit bf1cf1021347a140bef78bcb63865a8d91d9e67d
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Thu Apr 7 10:08:50 2022 -0400
-
-    Cleaned out unused code
-
-    - Supabase is replacing the lambda function(s)
-      - One of the lambda handle-aws-lorawan-uplink was already unused
-      - lorawan-record-event was replaced by supabase
-        (/rest/v1/rpc/handle_lorawan_uplink)
-    - Removed graphql queries and mutations
-    - Removed graphql related files
-    - Removed old copy of layers.ts (useLayer hook)
-
-commit d6831304d37955ef88a305b42e4889d33d72db28
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Thu Apr 7 02:22:46 2022 -0400
-
-    Added devices and gateways views
-
-commit 08d233625f18830aee684393371cd04c86f1e38c
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Thu Apr 7 02:22:30 2022 -0400
-
-    Added curl format file
-
-commit 0aceb4cbfbcce9d80e086ad9249b1b85191d2ca5
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Thu Apr 7 02:22:20 2022 -0400
-
-    Column alert/event renaming, refined layer query
-
-commit b55fc2e2ddb472f111894c83454a2dacd1322a78
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Thu Apr 7 02:20:55 2022 -0400
-
-    Added db package scripts
-
-commit eb8ed59eba22e34a0acadf802164e5ca005cec95
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Thu Apr 7 02:20:42 2022 -0400
-
-    Initial yeet of graphql
-
-    Almost complete previous functionality
-
-commit 126e6dadc843c4ef6b4e63c65ca345fe4c394e7d
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Wed Apr 6 22:47:00 2022 -0400
-
-    Fix bad rls policy on sensor_chan
-
-commit 9e57247e02a5793814b427ae135cf294485ed8db
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Wed Apr 6 13:54:25 2022 -0400
-
-    Moved supabase client to separate file
-
-commit cdf4b5bfb713a407d1bfe76fcd98b88d41d0d972
-Author: Paul Wood &lt;pmwood@pm.me&gt;
-Date:   Wed Apr 6 09:23:16 2022 -0400
-
-    Remove graphql dependencies</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UCF-Aether/aether-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">yeet-graphql</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a3b0853</div>
-                                        <div class="message">Forgot to actually commit the hook</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2022, 22:32:44 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 23:15:30 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
