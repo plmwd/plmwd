@@ -7,9 +7,8 @@
 <br><br>
 
 
-## I'm a student (finally) graduating Spring '22
-- 🔭 I’m currently working on (not dying) projects in every class! 
-  * A LoRa air pollution detector with AWS backend and React frontend for senior design!
+## I'm a UCF BSCpE student!
+- 🔭 I’m currently job searching
 - 🌱 I’m currently learning Rust and Linux 
 
 ## Much Skills <img width="90" height="auto" src="https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg">
