@@ -7,7 +7,7 @@
 <br><br>
 
 
-## I'm a UCF BSCpE student!
+## I'm a UCF BSCpE graduate!
 - 🔭 I’m currently job searching
 - 🌱 I’m currently learning Rust and Linux 
 
